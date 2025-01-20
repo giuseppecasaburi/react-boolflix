@@ -36,16 +36,16 @@ Trasformiamo quello che abbiamo fatto fino ad ora in una vera e propria webapp, 
 
 ## CONSIGLI:
 1. Andate in fila, seguendo le milestone, non pensate all’interfaccia grafica fino al punto 4;
-2. Non pensate all’interfaccia grafica fino al punto 4 (si, l’ho scritto due volte), tutto può essere risolto con una <ul> non stilizzata;
+2. Non pensate all’interfaccia grafica fino al punto 4 (si, l’ho scritto due volte), tutto può essere risolto con una "ul" non stilizzata;
 3. Ricordatevi quanto imparato finora con le diverse esercitazioni:
-○ Affrontate sempre prima il caso base minimo, senza complicazioni (ad es. “Se il titolo originale è uguale al titolo, magari dovrei nasconderlo”, “Se faccio una ricerca che non ha nessun risultato dovrei scrivere qualcosa” sono domande da NON FARSI fino a quando non si è fatto completamente un caso base);
 
-○ Se ti viene volta di copiare/incollare codice, NON FARLO, fai una funzione! Quei pochi minuti risparmiati renderanno il tuo codice meno leggibile ed ogni volta che dovrai intervenire su quella parte perderai
-molto più tempo;
+    ○ Affrontate sempre prima il caso base minimo, senza complicazioni (ad es. “Se il titolo originale è uguale al titolo, magari dovrei nasconderlo”, “Se faccio una ricerca che non ha nessun risultato dovrei scrivere qualcosa” sono domande da NON FARSI fino a quando non si è fatto completamente un caso base);
 
-○ Prima di andare avanti, assicurati di aver risolto quella parte nel miglior modo possibile (codice non ripetuto, minimo codice possibile, funzioni chiare e riutilizzabili). Risparmierai tantissimo tempo risolvendo gli esercizi successivi;
+    ○ Se ti viene volta di copiare/incollare codice, NON FARLO, fai una funzione! Quei pochi minuti risparmiati renderanno il tuo codice meno leggibile ed ogni volta che dovrai intervenire su quella parte perderai molto più tempo;
 
-○ Meglio risolvere una milestone in meno, ma con codice scritto bene;
+    ○ Prima di andare avanti, assicurati di aver risolto quella parte nel miglior modo possibile (codice non ripetuto, minimo codice possibile, funzioni chiare e riutilizzabili). Risparmierai tantissimo tempo risolvendo gli esercizi successivi;
+
+    ○ Meglio risolvere una milestone in meno, ma con codice scritto bene;
 
 4. Per avere la lista delle lingue utilizzare: *https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes*.
 
