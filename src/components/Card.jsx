@@ -35,6 +35,7 @@ export function Card({
         {/* Valutazione */}
         {vote_average && (
           <div className="absolute -bottom-7 left-14  text-yellow-400 text-xs px-2 py-1 rounded">
+            {(vote_average / 2).toFixed(1)}
           </div>
         )}
       </div>
@@ -56,11 +57,10 @@ export function Card({
         {/* Lingua originale */}
         {original_language && (
           <p className="text-sm text-gray-400 mt-1">
-            
             <Flag
               code={languageToFlag[original_language]}
               alt={original_language}
-              style={{ width: 20, height: 15 }}
+              style={{ width: 45, height: 40 }}
             />
           </p>
         )}
